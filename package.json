@@ -5,7 +5,7 @@
   "author": "zhang <thexwant@gmail.com>",
   "main": "src/index.js",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
@@ -30,5 +30,18 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkupp/vue-input.git"
+  },
+  "keywords": [
+    "vue",
+    "input",
+    "keyboard"
+  ],
+  "bugs": {
+    "url": "https://github.com/thinkupp/vue-input/issues"
+  },
+  "homepage": "https://github.com/thinkupp/vue-input#readme"
 }

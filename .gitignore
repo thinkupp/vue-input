@@ -1,6 +1,5 @@
 .DS_Store
 node_modules/
-dist/
 npm-debug.log
 yarn-error.log
 
@@ -10,3 +9,21 @@ yarn-error.log
 *.ntvs*
 *.njsproj
 *.sln
+.DS_Store
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+platforms
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+www/css
+www/img
+www/js
+www/index.html
+.git
