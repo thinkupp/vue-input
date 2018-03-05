@@ -20,6 +20,7 @@ npm run build
 ``` bash
 import VueInput from 'vue-input';
 Vue.use(VueInput);
+```
 
 > 使用方法
 
@@ -29,7 +30,7 @@ Vue.use(VueInput);
   <div class="testDemo" v-input>
     <input/>
   </div>
-</template
-
+</template>
+```
 
 代码会自动检索该DOM元素下的所有inputDOM，不需要添加指令到每个input DOM中
