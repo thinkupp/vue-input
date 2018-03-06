@@ -1,9 +1,9 @@
 {
   "name": "vue-input",
-  "description": "解决移动端input框被输入法面新版遮挡的问题",
-  "version": "1.0.0",
+  "description": "解决移动端input框被输入法面板遮挡的问题",
+  "version": "1.0.2",
   "author": "zhang <thexwant@gmail.com>",
-  "main": "src/index.js",
+  "main": "src/main.js",
   "license": "MIT",
   "private": false,
   "scripts": {
